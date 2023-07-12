@@ -1,7 +1,7 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"115"
+	"revision"		"150"
 	"title"		"DOOM BFA (Official)"
 	"description"		"Official Layout of BFA on Deck."
 	"creator"		"76561197972453810"
@@ -10,7 +10,9 @@
 	"export_type"		"personal_local"
 	"controller_type"		"controller_neptune"
 	"controller_caps"		"23117823"
-	"major_revision"		"0"
+	"major_revision"		"1"
+	"major_revision_affects_mousekb" "1"
+	"major_revision_affects_xinput" "1"
 	"minor_revision"		"0"
 	"Timestamp"		"-843355536"
 	"actions"
@@ -1952,7 +1954,7 @@
 	"preset"
 	{
 		"id"		"0"
-		"name"		"Default"
+		"name"		"modern"
 		"group_source_bindings"
 		{
 			"7"		"switch active"
@@ -1984,7 +1986,7 @@
 	"preset"
 	{
 		"id"		"1"
-		"name"		"Preset_1000001"
+		"name"		"classic"
 		"group_source_bindings"
 		{
 			"25"		"switch active"
