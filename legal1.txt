@@ -1,0 +1,9 @@
+This Edition of DOOM: BFA uses NO assets from DOOM 3: BFG Edition. You play ONLY the Classic Doom
+games such as: DOOM Shareware, Ultimate DOOM, DOOM 2: Hell On Earth, DOOM 2: No Rest For The Living,
+Final DOOM: TNT: Evilution, Final DOOM: The Plutonia Experiment and DOOM 2: The Master Levels and
+it's assets can't be used to play DOOM 3, DOOM 3: Ressurection Of Evil and DOOM 3: The Lost Mission.
+
+The end user (player) must provide LEGALLY Obtained copies of these Classic Doom games 
+assets (.wad) in order to play them.
+
+The Developer of this port is STRONGLY againist the distribution of pirated content in any way or form.

@@ -1,0 +1,4 @@
+Are you feeling dizzy when playing the game ? Then go see a Doctor and ask for help.
+
+This is a photosensitivity warning in order to ensure that you will not try to change the game
+without reseting the executable first.

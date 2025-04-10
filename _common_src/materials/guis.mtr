@@ -1,0 +1,8 @@
+material guiSolid {
+	{
+		blend blend
+		colored
+		map "_white"
+		clamp
+	}
+}

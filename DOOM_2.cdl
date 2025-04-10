@@ -1,0 +1,45 @@
+[DOOM]
+classich = False
+mods = 
+Skill = 0
+marg = 
+Episode = 0
+Map = 0
+[DOOMII]
+classich = False
+smod = 0
+modex = 0
+mods = 
+modex = 1
+mods = 
+modex = 2
+mods = 
+modex = 3
+mods = 
+modex = 4
+mods = 
+Skill = 0
+marg = 
+Episode = 0
+Map = 0
+[DOOM I & II]
+classich = False
+mods = 
+Skill = 0
+marg = 
+[DOOM3]
+mods = (none)
+marg = 
+Game = 2
+console = False
+AA = 8
+SM = True
+HDR = True
+EX = 0,5
+SSAO = False
+Skip Intro = True
+CL = 0
+fo = 0,01
+as = False
+modbase = DOOM2
+
